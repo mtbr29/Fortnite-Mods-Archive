@@ -109,6 +109,13 @@ download:https://github.com/mtbr29/Fortnite-Mods-Archive/mods/pakchunkClarinet-W
 version:*6.31*
 <br>
 made by Brux (unfinished)
+<br>
+**INFO:** here are 3 Minecraft weapon commands for the mod above
+```cheatscript SpawnItem WID_Special_FiendHunter_Athena_VR_Ore_T03```
+
+```cheatscript SpawnItem WID_Edged_Axe_Medium_C_Ore_T01```
+
+```cheatscript spawnitem WID_Edged_Sword_Medium_R_Ore_T04```
 ![image](https://github.com/mtbr29/Fortnite-Mods-Archive/assets/157277351/1dceb178-bfff-45ca-9271-ffe0a4f1bead)
 
 <br>
