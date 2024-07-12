@@ -9,7 +9,7 @@ Made by Boredcrow24
 <br>
 ![image](https://github.com/mtbr29/Fortnite-Mods-Archive/assets/157277351/a0c351be-9629-4177-aadb-de94d5b0ce9b)
 <br>
-Download:https://github.com/mtbr29/Fortnite-Mods-Archive/mods/pakchunkSpiderman-WindowsClient.pak
+Download:https://github.com/mtbr29/Fortnite-Mods-Archive/blob/main/mods/pakchunkSpiderman-WindowsClient.pak
 
 <br><br>
 **Black Spider-Man**
@@ -19,7 +19,7 @@ version:*7.30, 7.40, 8.20*
 made by Boredcrow24
 ![image](https://github.com/mtbr29/Fortnite-Mods-Archive/assets/157277351/5792826e-f9da-4ac6-a254-1c139f6fe8d4)
 <br>
-download:https://github.com/mtbr29/Fortnite-Mods-Archive/mods/pakchunkSpidermanBlackSuit-WindowsClient.pak
+download:https://github.com/mtbr29/Fortnite-Mods-Archive/blob/main/mods/pakchunkSpidermanBlackSuit-WindowsClient.pak
 
 <br><br>
 **AMOGUS**
@@ -30,7 +30,7 @@ made by Boredcrow24
 ![image](https://github.com/mtbr29/Fortnite-Mods-Archive/assets/157277351/7f02d768-ae7d-4923-b2a7-e2c598c17574)
 
 <br>
-download:https://github.com/mtbr29/Fortnite-Mods-Archive/mods/pakchunkSus-WindowsClient.pak
+download:https://github.com/mtbr29/Fortnite-Mods-Archive/blob/main/mods/pakchunkSus-WindowsClient.pak
 
 <br><br>
 **SHREK**
@@ -44,7 +44,7 @@ made by Boredcrow24
 
 <br>
 
-download:https://github.com/mtbr29/Fortnite-Mods-Archive/mods/pakchunkShrek-WindowsClient.pak
+download:https://github.com/mtbr29/Fortnite-Mods-Archive/blob/main/mods/pakchunkShrek-WindowsClient.pak
 
 <br><br>
 **Steve**
@@ -55,7 +55,7 @@ made by Boredcrow24
 ![image](https://github.com/mtbr29/Fortnite-Mods-Archive/assets/157277351/409c80e1-fc4d-4eb1-b1ef-a03389429922)
 
 <br>
-download:https://github.com/mtbr29/Fortnite-Mods-Archive/mods/pakchunkSteveV2-WindowsClient.pak
+download:https://github.com/mtbr29/Fortnite-Mods-Archive/blob/main/mods/pakchunkSteveV2-WindowsClient.pak
 
 <br><br>
 **Roblox**
@@ -66,7 +66,7 @@ made by Noffie
 ![image](https://github.com/mtbr29/Fortnite-Mods-Archive/assets/157277351/92fbf6bd-22c5-4dee-a740-cbcbc82829d8)
 
 <br>
-download:https://github.com/mtbr29/Fortnite-Mods-Archive/mods/pakchunkOof-WindowsClient.pak
+download:https://github.com/mtbr29/Fortnite-Mods-Archive/blob/main/mods/pakchunkOof-WindowsClient.pak
 
 <br><br>
 **Sonic**
@@ -79,7 +79,7 @@ made by brux
 ![image](https://github.com/mtbr29/Fortnite-Mods-Archive/assets/157277351/80f45c22-f661-4a51-aaa5-472a8cc3aa49)
 
 <br>
-download:https://github.com/mtbr29/Fortnite-Mods-Archive/mods/pakchunkSonic-WindowsClient.pak
+download:https://github.com/mtbr29/Fortnite-Mods-Archive/blob/main/mods/pakchunkSonic-WindowsClient.pak
 
 <br><br>
 **Squidward + Squag**
@@ -90,8 +90,8 @@ made by Brux
 ![image](https://github.com/mtbr29/Fortnite-Mods-Archive/assets/157277351/51bed7e5-3527-48b7-997c-07aa194a7ba6)
 
 <br>
-download:https://github.com/mtbr29/Fortnite-Mods-Archive/mods/pakchunkSquag-WindowsClient.pak
-download:https://github.com/mtbr29/Fortnite-Mods-Archive/mods/pakchunkSquidward-WindowsClient.pak
+download:https://github.com/mtbr29/Fortnite-Mods-Archive/blob/main/mods/pakchunkSquag-WindowsClient.pak
+download:https://github.com/mtbr29/Fortnite-Mods-Archive/blob/main/mods/pakchunkSquidward-WindowsClient.pak
 <br><br>
 
 **Squidward's Clarinet**
@@ -103,7 +103,7 @@ made by Brux
 ![image](https://github.com/mtbr29/Fortnite-Mods-Archive/assets/157277351/aad65f48-0d0f-481d-a370-ee5daf9d1322)
 
 <br>
-download:https://github.com/mtbr29/Fortnite-Mods-Archive/mods/pakchunkClarinet-WindowsClient.pak
+download:https://github.com/mtbr29/Fortnite-Mods-Archive/blob/main/mods/pakchunkClarinet-WindowsClient.pak
 
 <br><br>
 **MinecraftWorld V1**
@@ -121,7 +121,7 @@ made by Brux (unfinished)
 ![image](https://github.com/mtbr29/Fortnite-Mods-Archive/assets/157277351/1dceb178-bfff-45ca-9271-ffe0a4f1bead)
 
 <br>
-download:https://github.com/mtbr29/Fortnite-Mods-Archive/mods/pakchunkMCWorld-WindowsClient.pak
+download:https://github.com/mtbr29/Fortnite-Mods-Archive/blob/main/mods/pakchunkMCWorld-WindowsClient.pak
 
 <br><br>
 **Bot mod**
@@ -133,7 +133,7 @@ made by Ahava
 **info:** type f9 to open the menu
 
 <br>
-download:https://github.com/mtbr29/Fortnite-Mods-Archive/mods/pakchunk101010-WindowsClient.pak
+download:https://github.com/mtbr29/Fortnite-Mods-Archive/blob/main/mods/pakchunk101010-WindowsClient.pak
 
 <br><br>
 **Ps1 grafics**
@@ -144,7 +144,7 @@ made by Brux
 ![image](https://github.com/user-attachments/assets/95b1dd86-0d7c-431d-90a6-f7a3c12963c8)
 
 <br>
-download:https://github.com/mtbr29/Fortnite-Mods-Archive/mods/pakchunkPlaystation-WindowsClient.pak
+download:https://github.com/mtbr29/Fortnite-Mods-Archive/blob/main/mods/pakchunkPlaystation-WindowsClient.pak
 
 <br><br>
 **Minecraft builds**
@@ -170,7 +170,7 @@ made by Brux
 ![image](https://github.com/user-attachments/assets/d1a59c0f-b5ca-4ffe-ac5b-c8baa075a88a)
 
 <br>
-download:https://github.com/mtbr29/Fortnite-Mods-Archive/mods/pakchunkSphere-WindowsClient.pak
+download:https://github.com/mtbr29/Fortnite-Mods-Archive/blob/main/mods/pakchunkSphere-WindowsClient.pak
 
 <br><br>
 **Chun-li with extra physics**
@@ -181,5 +181,5 @@ made by Brux
 ![image](https://cdn.discordapp.com/attachments/913541831046881290/1136269657045733456/2023-07-06_10-24-24.gif?ex=66926e95&is=66911d15&hm=2ec42b77b1a9a4db68713a01afe05953b796777428bd6be91239fc95d8da0af6&)
 
 <br>
-download:https://github.com/mtbr29/Fortnite-Mods-Archive/mods/pakchunkPhysics-WindowsClient.pak
+download:https://github.com/mtbr29/Fortnite-Mods-Archive/blob/main/mods/pakchunkPhysics-WindowsClient.pak
 
