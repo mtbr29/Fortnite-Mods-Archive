@@ -93,12 +93,13 @@ made by Brux
 download:https://github.com/mtbr29/Fortnite-Mods-Archive/mods/pakchunkSquag-WindowsClient.pak
 download:https://github.com/mtbr29/Fortnite-Mods-Archive/mods/pakchunkSquidward-WindowsClient.pak
 <br><br>
+
 **Squidward's Clarinet**
 <br>
 version:*5.30to8.20*
 <br>
 made by Brux
-<br>
+
 ![image](https://github.com/mtbr29/Fortnite-Mods-Archive/assets/157277351/aad65f48-0d0f-481d-a370-ee5daf9d1322)
 
 <br>
@@ -123,52 +124,62 @@ made by Brux (unfinished)
 download:https://github.com/mtbr29/Fortnite-Mods-Archive/mods/pakchunkMCWorld-WindowsClient.pak
 
 <br><br>
-** **
+**Bot mod**
 <br>
-version:* *
+version:*5.40 to 8.20*
 <br>
-made by 
+made by Ahava
+<br>
+**info:** type f9 to open the menu
+
+<br>
+download:https://github.com/mtbr29/Fortnite-Mods-Archive/mods/pakchunk101010-WindowsClient.pak
+
+<br><br>
+**Ps1 grafics**
+<br>
+version:*6.31*
+<br>
+made by Brux
+![image](https://github.com/user-attachments/assets/95b1dd86-0d7c-431d-90a6-f7a3c12963c8)
+
+<br>
+download:https://github.com/mtbr29/Fortnite-Mods-Archive/mods/pakchunkPlaystation-WindowsClient.pak
+
+<br><br>
+**Minecraft builds**
+<br>
+version:*season6*
+<br>
+made by Brux
+<br>
+**info:** use this map for the best performance. use command in the lobby:
+
+```open TRV_HAF_3x3_Cemetery_01?game=/game/athena/athena_gamemode.athena_gamemode_C```
+![image](https://github.com/user-attachments/assets/04c885ea-601b-4983-bc19-7b1afa666393)
 
 <br>
 download:https://github.com/mtbr29/Fortnite-Mods-Archive/mods/
 
 <br><br>
-** **
+**Sphere Build**
 <br>
-version:* *
+version:*Should work on v5.40 to 8.00*
 <br>
-made by 
+made by Brux
+![image](https://github.com/user-attachments/assets/d1a59c0f-b5ca-4ffe-ac5b-c8baa075a88a)
 
 <br>
-download:https://github.com/mtbr29/Fortnite-Mods-Archive/mods/
-
-<br><br>
-** **
-<br>
-version:* *
-<br>
-made by 
-
-<br>
-download:https://github.com/mtbr29/Fortnite-Mods-Archive/mods/
+download:https://github.com/mtbr29/Fortnite-Mods-Archive/mods/pakchunkSphere-WindowsClient.pak
 
 <br><br>
-** **
+**Chun-li with extra physics**
 <br>
-version:* *
+version:*7.40*
 <br>
-made by 
+made by Brux
+![image](https://cdn.discordapp.com/attachments/913541831046881290/1136269657045733456/2023-07-06_10-24-24.gif?ex=66926e95&is=66911d15&hm=2ec42b77b1a9a4db68713a01afe05953b796777428bd6be91239fc95d8da0af6&)
 
 <br>
-download:https://github.com/mtbr29/Fortnite-Mods-Archive/mods/
-
-<br><br>
-** **
-<br>
-version:* *
-<br>
-made by 
-
-<br>
-download:https://github.com/mtbr29/Fortnite-Mods-Archive/mods/
+download:https://github.com/mtbr29/Fortnite-Mods-Archive/mods/pakchunkPhysics-WindowsClient.pak
 
