@@ -98,6 +98,7 @@ download:https://github.com/mtbr29/Fortnite-Mods-Archive/mods/pakchunkSquidward-
 version:*5.30to8.20*
 <br>
 made by Brux
+<br>
 ![image](https://github.com/mtbr29/Fortnite-Mods-Archive/assets/157277351/aad65f48-0d0f-481d-a370-ee5daf9d1322)
 
 <br>
