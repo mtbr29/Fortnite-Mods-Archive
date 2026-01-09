@@ -1,6 +1,7 @@
 # fortnite mods
 
-# more mods ➡️ https://mtbr29.dev/mods
+If you are looking for more mods:
+it's a backup of all mods from rift.
 **Spiderman** 
 <br>
 version:*7.30, 7.40, 8.20*
